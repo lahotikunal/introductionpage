@@ -298,6 +298,12 @@ label + input[type=radio] + label
     border: 4px solid #800000;
     outline:none;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 #text-area
 {
   font-family: cursive;
